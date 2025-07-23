@@ -6,7 +6,7 @@ Bienvenue dans mon journal de progression vers le niveau **Pentesteur junior**.
 
 ## 📂 Contenu prévu
 - Notes Linux
-- Notes réseaux
+- Notes Réseaux
 - Write-ups TryHackMe / Root-Me
 - Scripts Python (scanner, brute force, etc.)
 
