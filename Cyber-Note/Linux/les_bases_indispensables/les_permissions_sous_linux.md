@@ -12,8 +12,8 @@
 - sudo addgroup [name] = créer un grp
 - sudo delgroup [name] = supprimer un grp
 - Déplacer un utilisateur dans un grp  
-| sudo addgroup   | [user]      | [group]
+| sudo addgroup   | [user]      | [group]    |
 |-----------------|-------------|------------|
 
-- 
+- id [nom] = voir uid et gid 
  
