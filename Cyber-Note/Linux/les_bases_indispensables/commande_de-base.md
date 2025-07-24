@@ -4,7 +4,7 @@
   ![whomai](https://github.com/Alcin1/Cyber_portfolio/blob/main/Cyber-Note/Linux/les_bases_indispensables/image/Screenshot%202025-07-24%20111214.png?raw=true)
 - pwd = voir où on se situe  
   ![pwd](https://github.com/Alcin1/Cyber_portfolio/blob/main/Cyber-Note/Linux/les_bases_indispensables/image/Screenshot%202025-07-24%20110611.png?raw=true)
-- man [...] = accès au manuel, de la documentation pour une commande  
+- man = accès au manuel, de la documentation pour une commande  
   ![man1](https://github.com/Alcin1/Cyber_portfolio/blob/main/Cyber-Note/Linux/les_bases_indispensables/image/Screenshot%202025-07-24%20111640.png?raw=true)
   ![man1](https://github.com/Alcin1/Cyber_portfolio/blob/main/Cyber-Note/Linux/les_bases_indispensables/image/Screenshot%202025-07-24%20111615.png?raw=true)
 _________________________________________________________________________________
