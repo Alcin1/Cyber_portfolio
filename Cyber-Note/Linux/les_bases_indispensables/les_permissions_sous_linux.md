@@ -14,9 +14,34 @@
 - Déplacer un utilisateur dans un grp
 
 |sudo addgroup   | [user]      | [group]   |
-|----------------|------------|------------|
+|---|---|---|
 
 - id [name] = voir uid et gid
 
 ## PERMISSIONS
- 
+- d~~~~~~ = dossier  
+- l~~~~~~ = lien symbolique
+
+- rwxr--r--
+  
+| rwx | rw- | r-- |
+|---|---|---|
+| propriétaire| groupe propriétaire | les autres |
+
+  r = read 
+  w =  write 
+  x = execute 
+- chmod u-r test.txt
+
+| chmod | permissions | fichier |
+|---|---|---|  
+
+| u | user/proprio |
+|---|---|
+| g | groupe |
+| o | les autres |
+| a | tout le monde |
+| + | ajoute |
+| - | enlève |  
+
+- chown [user:groupe] [fichier] = changer le propriétaire du groupe
