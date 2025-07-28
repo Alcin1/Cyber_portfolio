@@ -20,7 +20,7 @@
 ![3](https://github.com/Alcin1/Cyber_portfolio/blob/main/Cyber-Note/Linux/les_bases_indispensables/image/3.png?raw=true)
 - rm = supprimer un fichier  
 ![4](https://github.com/Alcin1/Cyber_portfolio/blob/main/Cyber-Note/Linux/les_bases_indispensables/image/4.png?raw=true)
-- rm -r = supprimer un dossier et son contenu ( grâce à l'option -r )
+- rm -rvf = supprimer un dossier et son contenu ( grâce à l'option -r, -v > sa liste le contenu effacer, f pour force  )
 
 ## ACTION SUR LE FICHIER
 - cat = voir fichier    
