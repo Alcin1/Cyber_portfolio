@@ -11,9 +11,10 @@
 - passwd [name] = change mp du user
 - sudo addgroup [name] = créer un grp
 - sudo delgroup [name] = supprimer un grp
-- Déplacer un utilisateur dans un grp  
-|sudo addgroup   | [user]      | [group]     |
-|-----------------|-------------|------------|
+- Déplacer un utilisateur dans un grp
+
+|sudo addgroup   | [user]      | [group]   |
+|----------------|------------|------------|
 
 - id [name] = voir uid et gid
 
