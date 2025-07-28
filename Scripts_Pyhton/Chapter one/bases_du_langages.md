@@ -52,8 +52,8 @@ exemple : x = 5, y = 3
   | else | dernière condition |
 
   # Boucles
-  
-  
+
+    | for | parcourt une séquence 
   
 
   
