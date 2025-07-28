@@ -18,7 +18,7 @@ is_melvyn = True
 - Arithmétiques :
 
   | + | 1 + 2 = 3 |additionner |
-  |---|------------|--------|
+  |---|---|---|
   | - | 2 - 1 = 1 |soustraire |
   | * | 2 * 1 = 2 |multiplier |
   | / | 5 / 2 = 2,5 |division |
@@ -37,6 +37,12 @@ exemple : x = 5, y = 3
   | >= | supérieur ou égal | x >= y >> True | 
   | <= | inférieur ou égal | x <= y >> False |
 
-  | and 
+  | and | Et- toutes doit être vraies | x > 2 and y < 5 >> True |
+  |---|---|---|
+  | or | Ou- au moins une doit être vraies | x < 2 and y < 5 >> True |
+  |not | Non- inverse la vérité | not(x == 5) >> False |
+
+  # Structures conditionnels
+  
 
   
