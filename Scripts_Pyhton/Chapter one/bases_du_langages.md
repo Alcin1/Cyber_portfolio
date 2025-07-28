@@ -1,3 +1,5 @@
+- print() : afficher
+- input() : demander à l'utilisateur de taper 
 # Syntaxes et variables 
 - Types de données :
 
@@ -43,6 +45,15 @@ exemple : x = 5, y = 3
   |not | Non- inverse la vérité | not(x == 5) >> False |
 
   # Structures conditionnels
+
+  | if | condition principale |
+  |---|---|
+  |elif | si condition principale est fausse ( on peut mettre autant de elif qu'on veut )|
+  | else | dernière condition |
+
+  # Boucles
+  
+  
   
 
   
