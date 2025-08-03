@@ -51,9 +51,13 @@ exemple : x = 5, y = 3
   |elif | si condition principale est fausse ( on peut mettre autant de elif qu'on veut )|
   | else | dernière condition |
 
-  # Boucles
+  # Boucles  
 
-    | for | parcourt une séquence 
+  | for | parcourt une séquence (liste, range, chaîne ) sans condition |
+  |---|---|
+  |while| parcourt une séquence avec condition ( opértions arithmétiques et logiques ) |
+
+  # Fonctions
   
 
   
